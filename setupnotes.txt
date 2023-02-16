@@ -1,0 +1,3 @@
+created venv "liv"
+conda install pip
+~/.conda/envs/liv/Scripts/pip.exe install pyside6
